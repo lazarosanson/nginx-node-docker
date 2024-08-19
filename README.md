@@ -1,2 +1,2 @@
 ## Desafío Docker FullCycle
-Run ```docker compose up -d```
+Executar commando ```docker compose up -d```
